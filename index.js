@@ -20,7 +20,7 @@ app.listen(PORT, () => {
 // ==========================================
 const config = {
     host: 'thehatman78.play.hosting', // Replace with your server IP
-    port: 1502,                      // Replace if server uses custom port
+    port: 25565,                      // Replace if server uses custom port
     username: 'im_bot',         // Your bot's Minecraft username/email
     version: false                    // 'false' auto-detects server version
 };
