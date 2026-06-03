@@ -19,10 +19,10 @@ app.listen(PORT, () => {
 // 2. MINECRAFT BOT CONFIGURATION
 // ==========================================
 const config = {
-    host: 'thehatman78.play.hosting', // Replace with your server IP
+    host: 'thehatman78.aternos.me', // Replace with your server IP
     port: 25565,                      // Replace if server uses custom port
     username: 'im_bot',         // Your bot's Minecraft username/email
-    version: 26.1.2                    // 'false' auto-detects server version
+    version: false                   // 'false' auto-detects server version
 };
 
 function startBot() {
