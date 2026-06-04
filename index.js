@@ -20,7 +20,7 @@ app.listen(PORT, () => {
 // ==========================================
 const config = {
     host: 'thehatman78.aternos.me', // Replace with your server IP
-    port: 25565,                      // Replace if server uses custom port
+    port: 48237,                      // Replace if server uses custom port
     username: 'im_bot',         // Your bot's Minecraft username/email
     version: false                   // 'false' auto-detects server version
 };
