@@ -1,0 +1,15 @@
+{
+  "name": "minecraft-afk-bot",
+  "version": "1.0.0",
+  "description": "A simple AFK bot for Minecraft servers, built with mineflayer. Designed to run on Falix Nodes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.20.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

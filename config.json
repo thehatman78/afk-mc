@@ -1,0 +1,27 @@
+{
+  "host": "thehatman.falix.gg",
+  "port": 25565,
+  "username": "im_bot",
+  "version": false,
+
+  "auth": "offline",
+  "password": "",
+
+  "reconnect": true,
+  "reconnectDelaySeconds": 10,
+
+  "antiAfk": {
+    "enabled": true,
+    "jump": true,
+    "walk": true,
+    "lookAround": true,
+    "intervalSeconds": 20
+  },
+
+  "autoReconnectOnKick": true,
+  "chatMessages": {
+    "enabled": false,
+    "messages": ["I'm just AFK, bot managed."],
+    "intervalMinutes": 30
+  }
+}
